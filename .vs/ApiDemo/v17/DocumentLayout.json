@@ -1,0 +1,1080 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\storedbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\storedbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\orderaggregate\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\orderaggregate\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\seeddata\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\orderwithitemsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\orderwithitemsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\orderaggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\orderaggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\orderaggregate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\orderaggregate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\responsemodule\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\responsemodule\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\extensions\\swaggerdocextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\extensions\\swaggerdocextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\dtos\\shippingaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\dtos\\shippingaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\productwithfiltersforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\productwithfiltersforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\specifications\\productspecificparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\specifications\\productspecificparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\apidemo\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390F428-FEF5-4DB9-973F-6577D05B0D08}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./StoreDbG01/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB631BD6-53F5-4ED5-8487-84F8F56B4496}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240608053151_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\migrations\\20240609112137_altercolumnimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240609112137_altercolumnimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|d:\\asp.netcorewebapiprojects\\apidemo\\infrastructure\\migrations\\20240716231126_changetypeprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A9B709-5435-4E3D-8446-EEF558871246}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240716231126_changetypeprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:02:12.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "ApiDemo\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:09:18.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiDemo\\appsettings.json",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\appsettings.json",
+              "RelativeToolTip": "ApiDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T18:02:42.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Program.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Program.cs",
+              "RelativeToolTip": "ApiDemo\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:16:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "ApiDemo\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:09:44.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:45:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CachedAttribute.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\CachedAttribute.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Helpers\\CachedAttribute.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\CachedAttribute.cs",
+              "RelativeToolTip": "ApiDemo\\Helpers\\CachedAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:17:32.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseCacheService.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Services\\ResponseCacheService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ResponseCacheService.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Services\\ResponseCacheService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ResponseCacheService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:30:39.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IResponseCacheService.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IResponseCacheService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IResponseCacheService.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IResponseCacheService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IResponseCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:26:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:58:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:14:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreDbContextSeed.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\StoreDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StoreDbContextSeed.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\StoreDbContextSeed.cs",
+              "RelativeToolTip": "Infrastructure\\StoreDbContextSeed.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:07:06.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAggregate\\DeliveryMethod.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\DeliveryMethod.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAggregate\\DeliveryMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:14:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:52:57.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreDbContext.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\StoreDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:57:05.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:27:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAggregate\\Order.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAggregate\\Order.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:13:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "ApiDemo\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:32:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\BasketController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:12:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "delivery.json",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\delivery.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\delivery.json",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\delivery.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\delivery.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T11:03:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\CustomerBasket.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\CustomerBasket.cs",
+              "RelativeToolTip": "Core\\Entities\\CustomerBasket.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:07:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:06:34.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BasketItem.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "Core\\Entities\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:09:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\BasketRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\BasketRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:06:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderWithItemsSpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\OrderWithItemsSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\OrderWithItemsSpecification.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\OrderWithItemsSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\OrderWithItemsSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:43:45.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:02:34.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:23:56.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:49:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:38:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:09:24.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\ResponseModule\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\ResponseModule\\ApiResponse.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\ResponseModule\\ApiResponse.cs",
+              "RelativeToolTip": "ApiDemo\\ResponseModule\\ApiResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:23:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:12:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IBasketRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IBasketRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:06:36.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAMwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:44:32.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShippingAddressDto.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\ShippingAddressDto.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Dtos\\ShippingAddressDto.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\ShippingAddressDto.cs",
+              "RelativeToolTip": "ApiDemo\\Dtos\\ShippingAddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:06:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SwaggerDocExtensions.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\SwaggerDocExtensions.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Extensions\\SwaggerDocExtensions.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Extensions\\SwaggerDocExtensions.cs",
+              "RelativeToolTip": "ApiDemo\\Extensions\\SwaggerDocExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:24:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Dtos\\OrderDto.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "ApiDemo\\Dtos\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:06:12.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:22:13.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Core\\Specifications\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:18:12.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240716231126_ChangeTypePrice.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240716231126_ChangeTypePrice.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240716231126_ChangeTypePrice.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240716231126_ChangeTypePrice.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240716231126_ChangeTypePrice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:11:27.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:54:33.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Config\\OrderConfiguration.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Config\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:51:42.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "products.json",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\products.json",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T01:31:17.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "brands.json",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\brands.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\brands.json",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\brands.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\brands.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T11:55:58.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerBasketDto.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\CustomerBasketDto.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Dtos\\CustomerBasketDto.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\CustomerBasketDto.cs",
+              "RelativeToolTip": "ApiDemo\\Dtos\\CustomerBasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:58:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Dtos\\BasketItemDto.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\BasketItemDto.cs",
+              "RelativeToolTip": "ApiDemo\\Dtos\\BasketItemDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:58:41.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Controllers\\BuggyController.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "ApiDemo\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA7wBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:58:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductUrlResolver.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\ProductUrlResolver.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Helpers\\ProductUrlResolver.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\ProductUrlResolver.cs",
+              "RelativeToolTip": "ApiDemo\\Helpers\\ProductUrlResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:06:49.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:18:15.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductWithFiltersForCountSpecifications.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductWithFiltersForCountSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductWithFiltersForCountSpecifications.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductWithFiltersForCountSpecifications.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductWithFiltersForCountSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:17:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Helpers\\Pagination.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "ApiDemo\\Helpers\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:35:32.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductsWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:35:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductSpecificParams.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductSpecificParams.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecificParams.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Specifications\\ProductSpecificParams.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductSpecificParams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:29:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T02:55:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T02:54:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\ApiDemo\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "ApiDemo\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:07:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductType.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:50:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "types.json",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\types.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\types.json",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Data\\SeedData\\types.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\types.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T11:58:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:50:00.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductBrand.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductBrand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:50:25.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:54:31.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240609112137_alterColumnImageUrl.cs",
+              "DocumentMoniker": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240609112137_alterColumnImageUrl.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240609112137_alterColumnImageUrl.cs",
+              "ToolTip": "D:\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240609112137_alterColumnImageUrl.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240609112137_alterColumnImageUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:21:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240608053151_init.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240608053151_init.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ASP.NetCoreWebApiProjects\\ApiDemo\\Infrastructure\\Migrations\\20240608053151_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:31:52.055Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./StoreDbG01/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-21T02:02:35.513Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 3,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
